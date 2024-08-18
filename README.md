@@ -28,6 +28,7 @@ A **Navarro Blog** é uma aplicação de desenvolvimento web focada em fornecer 
    <img align='center' height='70' width='70' title='Docker' alt='docker' src='https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg' /> &nbsp;
    <img align='center' height='60' width='50' title='Vitest' alt='vitest' src='https://github.com/bush1D3v/tsbank_api/assets/133554156/74803ee6-3f6e-4335-9f56-cb887a4285ff' />  &nbsp;&nbsp;&nbsp;
    <img align='center' height='54' width='44' title='Storybook-js' alt='storybook-js' src='https://github.com/bush1D3v/my_portfolio/assets/133554156/213c8aa4-ce24-4b30-8e07-dceb476e8589' /> &nbsp;&nbsp;&nbsp;&nbsp;
+   <img align='center' height='54' width='54' title='Cypress' alt='cypress' src='https://github.com/user-attachments/assets/8eb060a2-57dc-4028-9e6b-9c93644fb545' /> &nbsp;&nbsp;&nbsp;
    <img align='center' height='50' width='50' title='VueUse' alt='vueuse' src='https://github.com/user-attachments/assets/c4eb21ad-858d-4f28-a2c7-1dd0c23342c1' /> &nbsp;
    <img align='center' height='50' width='60' title='Biomejs' alt='biomejs' src='https://github.com/user-attachments/assets/b3d8a249-e17f-4e64-9608-4a4783b7bbc0' /> &nbsp;
 </div>
@@ -42,7 +43,7 @@ Com a adição do Docker, você agora pode utilizar dos scripts fornecidos em `M
 
 Para isso, segue a lista de funções de cada script:
 
-> `docker-build`: Constrói as imagens docker do projeto <br> `docker-run`: Sobe e roda os containers de navarro_blog_api <br> `docker-stop`: Para os containers de navarro_blog_api <br> `docker-clean`: Remove as imagens docker do projeto
+> `docker-build`: Constrói as imagens docker do projeto <br> `docker-run`: Sobe e roda os containers de navarro_blog_front <br> `docker-clean`: Remove as imagens docker do projeto
 
 ENG 🇺🇸
 
@@ -75,6 +76,7 @@ The **Navarro Blog** is a web development application focused on providing funct
    <img align='center' height='70' width='70' title='Docker' alt='docker' src='https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg' /> &nbsp;
    <img align='center' height='54' width='44' title='Vitest' alt='vitest' src='https://github.com/bush1D3v/tsbank_api/assets/133554156/74803ee6-3f6e-4335-9f56-cb887a4285ff' />  &nbsp;&nbsp;&nbsp;
    <img align='center' height='54' width='44' title='Storybook-js' alt='storybook-js' src='https://github.com/bush1D3v/my_portfolio/assets/133554156/213c8aa4-ce24-4b30-8e07-dceb476e8589' /> &nbsp;&nbsp;&nbsp;&nbsp;
+   <img align='center' height='54' width='54' title='Cypress' alt='cypress' src='https://github.com/user-attachments/assets/8eb060a2-57dc-4028-9e6b-9c93644fb545' /> &nbsp;&nbsp;&nbsp;
    <img align='center' height='50' width='50' title='VueUse' alt='vueuse' src='https://github.com/user-attachments/assets/c4eb21ad-858d-4f28-a2c7-1dd0c23342c1' /> &nbsp;
    <img align='center' height='50' width='60' title='Biomejs' alt='biomejs' src='https://github.com/user-attachments/assets/b3d8a249-e17f-4e64-9608-4a4783b7bbc0' /> &nbsp;
 </div>
@@ -89,4 +91,4 @@ With the addition of Docker, you can now use the scripts provided in `Makefile` 
 
 To do this, here is the list of functions for each script:
 
-> `docker-build`: Builds the project's docker images <br> `docker-run`: Builds and runs the navarro_blog_api containers <br> `docker-stop`: Stops the navarro_blog_api containers <br> `docker-clean `: Remove docker images from the project
+> `docker-build`: Builds the project's docker images <br> `docker-up`: Builds and runs the navarro_blog_front containers <br> `docker-clean `: Remove docker images from the project
