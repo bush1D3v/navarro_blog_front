@@ -26,8 +26,8 @@ A **Navarro Blog** é uma aplicação de desenvolvimento web focada em fornecer 
    <img align='center' height='49' width='49' title='Dotenv' alt='dotenv' src='https://github.com/bush1D3v/navarro_blog_api/assets/133554156/de030e87-8f12-4b6b-8c75-071bab8526a5' /> &nbsp;&nbsp;
    <img align='center' height='48' width='48' title='GitHub Actions' alt='github actions' src='https://github.com/bush1D3v/navarro_blog_api/assets/133554156/0ce89dba-2909-4673-8b71-94a135f61bfb' /> &nbsp;&nbsp;
    <img align='center' height='70' width='70' title='Docker' alt='docker' src='https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg' /> &nbsp;
-   <img align='center' height='60' width='50' title='Vitest' alt='vitest' src='https://github.com/bush1D3v/tsbank_api/assets/133554156/74803ee6-3f6e-4335-9f56-cb887a4285ff' />  &nbsp;&nbsp;&nbsp;
-   <img align='center' height='54' width='44' title='Storybook-js' alt='storybook-js' src='https://github.com/bush1D3v/my_portfolio/assets/133554156/213c8aa4-ce24-4b30-8e07-dceb476e8589' /> &nbsp;&nbsp;&nbsp;&nbsp;
+   <img align='center' height='60' width='50' title='Vitest' alt='vitest' src='https://github.com/bush1D3v/tsbank_api/assets/133554156/74803ee6-3f6e-4335-9f56-cb887a4285ff' />  &nbsp;&nbsp;
+   <img align='center' height='54' width='44' title='Storybook-js' alt='storybook-js' src='https://github.com/bush1D3v/my_portfolio/assets/133554156/213c8aa4-ce24-4b30-8e07-dceb476e8589' /> &nbsp;&nbsp;&nbsp;
    <img align='center' height='54' width='54' title='Cypress' alt='cypress' src='https://github.com/user-attachments/assets/8eb060a2-57dc-4028-9e6b-9c93644fb545' /> &nbsp;&nbsp;&nbsp;
    <img align='center' height='50' width='50' title='VueUse' alt='vueuse' src='https://github.com/user-attachments/assets/c4eb21ad-858d-4f28-a2c7-1dd0c23342c1' /> &nbsp;
    <img align='center' height='50' width='60' title='Biomejs' alt='biomejs' src='https://github.com/user-attachments/assets/b3d8a249-e17f-4e64-9608-4a4783b7bbc0' /> &nbsp;
@@ -74,8 +74,8 @@ The **Navarro Blog** is a web development application focused on providing funct
    <img align='center' height='49' width='49' title='Dotenv' alt='dotenv' src='https://github.com/bush1D3v/navarro_blog_api/assets/133554156/de030e87-8f12-4b6b-8c75-071bab8526a5' /> &nbsp;
    <img align='center' height='48' width='48' title='GitHub Actions' alt='github actions' src='https://github.com/bush1D3v/navarro_blog_api/assets/133554156/0ce89dba-2909-4673-8b71-94a135f61bfb' /> &nbsp;
    <img align='center' height='70' width='70' title='Docker' alt='docker' src='https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg' /> &nbsp;
-   <img align='center' height='54' width='44' title='Vitest' alt='vitest' src='https://github.com/bush1D3v/tsbank_api/assets/133554156/74803ee6-3f6e-4335-9f56-cb887a4285ff' />  &nbsp;&nbsp;&nbsp;
-   <img align='center' height='54' width='44' title='Storybook-js' alt='storybook-js' src='https://github.com/bush1D3v/my_portfolio/assets/133554156/213c8aa4-ce24-4b30-8e07-dceb476e8589' /> &nbsp;&nbsp;&nbsp;&nbsp;
+   <img align='center' height='54' width='44' title='Vitest' alt='vitest' src='https://github.com/bush1D3v/tsbank_api/assets/133554156/74803ee6-3f6e-4335-9f56-cb887a4285ff' />  &nbsp;&nbsp;
+   <img align='center' height='54' width='44' title='Storybook-js' alt='storybook-js' src='https://github.com/bush1D3v/my_portfolio/assets/133554156/213c8aa4-ce24-4b30-8e07-dceb476e8589' /> &nbsp;&nbsp;&nbsp;
    <img align='center' height='54' width='54' title='Cypress' alt='cypress' src='https://github.com/user-attachments/assets/8eb060a2-57dc-4028-9e6b-9c93644fb545' /> &nbsp;&nbsp;&nbsp;
    <img align='center' height='50' width='50' title='VueUse' alt='vueuse' src='https://github.com/user-attachments/assets/c4eb21ad-858d-4f28-a2c7-1dd0c23342c1' /> &nbsp;
    <img align='center' height='50' width='60' title='Biomejs' alt='biomejs' src='https://github.com/user-attachments/assets/b3d8a249-e17f-4e64-9608-4a4783b7bbc0' /> &nbsp;
