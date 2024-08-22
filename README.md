@@ -31,6 +31,7 @@ A **Navarro Blog** é uma aplicação de desenvolvimento web focada em fornecer 
    <img align='center' height='54' width='54' title='Cypress' alt='cypress' src='https://github.com/user-attachments/assets/8eb060a2-57dc-4028-9e6b-9c93644fb545' /> &nbsp;&nbsp;&nbsp;
    <img align='center' height='50' width='50' title='VueUse' alt='vueuse' src='https://github.com/user-attachments/assets/c4eb21ad-858d-4f28-a2c7-1dd0c23342c1' /> &nbsp;
    <img align='center' height='50' width='60' title='Biomejs' alt='biomejs' src='https://github.com/user-attachments/assets/b3d8a249-e17f-4e64-9608-4a4783b7bbc0' /> &nbsp;
+   <img align='center' height='50' width='50' title='Chromatic' alt='chromatic' src='https://github.com/user-attachments/assets/6edd5832-5db7-4e2a-a8e4-4bbe7b8e7208' /> &nbsp;
 </div>
 
 ## 🏗 Estrutura e Arquitetura
@@ -39,7 +40,7 @@ O projeto segue os princípios da **arquitetura limpa**, e o código foi organiz
 
 ## 🐳 Docker
 
-Com a adição do Docker, você agora pode utilizar dos scripts fornecidos em `Makefile` para poder construir a imagem docker e rodar o container da aplicação.
+Com a adição do Docker, você agora pode utilizar dos scripts fornecidos em `package.json` para poder construir a imagem docker e rodar o container da aplicação.
 
 Para isso, segue a lista de funções de cada script:
 
@@ -79,6 +80,7 @@ The **Navarro Blog** is a web development application focused on providing funct
    <img align='center' height='54' width='54' title='Cypress' alt='cypress' src='https://github.com/user-attachments/assets/8eb060a2-57dc-4028-9e6b-9c93644fb545' /> &nbsp;&nbsp;&nbsp;
    <img align='center' height='50' width='50' title='VueUse' alt='vueuse' src='https://github.com/user-attachments/assets/c4eb21ad-858d-4f28-a2c7-1dd0c23342c1' /> &nbsp;
    <img align='center' height='50' width='60' title='Biomejs' alt='biomejs' src='https://github.com/user-attachments/assets/b3d8a249-e17f-4e64-9608-4a4783b7bbc0' /> &nbsp;
+   <img align='center' height='50' width='50' title='Chromatic' alt='chromatic' src='https://github.com/user-attachments/assets/6edd5832-5db7-4e2a-a8e4-4bbe7b8e7208' /> &nbsp;
 </div>
 
 ## 🏗 Structure and Architecture
@@ -87,7 +89,7 @@ The project follows the principles of **clean architecture**, and the code was o
 
 ## 🐳 Docker
 
-With the addition of Docker, you can now use the scripts provided in `Makefile` to build the docker image and run the application container.
+With the addition of Docker, you can now use the scripts provided in `package.json` to build the docker image and run the application container.
 
 To do this, here is the list of functions for each script:
 
