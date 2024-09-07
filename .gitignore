@@ -26,3 +26,5 @@ logs
 .vscode
 stories
 coverage
+
+package-lock.json
