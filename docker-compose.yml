@@ -6,19 +6,23 @@ services:
     volumes:
       - .:/app
     working_dir: /app
-    command: npm run dev
+    environment:
+      - GIT_USER_EMAIL=${GIT_USER_EMAIL}
+      - GIT_USER_NAME=${GIT_USER_NAME}
+    command: sh -c "git config --global user.email \"$GIT_USER_EMAIL\" && git config --global user.name \"$GIT_USER_NAME\" && git config --global --add safe.directory /app && npm run dev"
     ports:
       - "3000:3000"
 
-  cypress:
-    image: cypress/included:cypress-13.11.0-node-20.14.0-chrome-125.0.6422.141-1-ff-126.0.1-edge-125.0.2535.85-1
-    environment:
-      - DISPLAY=${DISPLAY}
+  storybook:
+    image: node:20
     volumes:
-      - .:/e2e
-      - /tmp/.X11-unix:/tmp/.X11-unix
+      - .:/app
+    working_dir: /app
+    environment:
+      - GIT_USER_EMAIL=${GIT_USER_EMAIL}
+      - GIT_USER_NAME=${GIT_USER_NAME}
+    command: sh -c "apt-get update && apt-get install -y xdg-utils && git config --global user.email \"$GIT_USER_EMAIL\" && git config --global user.name \"$GIT_USER_NAME\" && git config --global --add safe.directory /app && npm run storybook"
     ports:
-      - "3000:3000"
-    command: npx cypress open
+      - "6006:6006"
     depends_on:
       - nuxt
