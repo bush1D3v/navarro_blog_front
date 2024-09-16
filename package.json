@@ -42,7 +42,7 @@
 		"vue": "3.5.3"
 	},
 	"devDependencies": {
-		"@chromatic-com/storybook": "^1.9.0",
+		"@chromatic-com/storybook": "^2.0.2",
 		"@nuxt/icon": "^1.5.1",
 		"@nuxt/image": "^1.8.0",
 		"@nuxt/test-utils": "^3.14.1",
