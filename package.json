@@ -58,7 +58,7 @@
 		"@storybook/theming": "^8.2.9",
 		"@storybook/vue3": "^8.2.9",
 		"@storybook/vue3-vite": "^8.2.9",
-		"@types/node": "^18.19.50",
+		"@types/node": "^22.7.4",
 		"@vitest/coverage-v8": "^2.0.5",
 		"@vueuse/nuxt": "^11.0.3",
 		"shadcn-nuxt": "^0.10.4",
