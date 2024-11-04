@@ -30,7 +30,7 @@
 		"@vue/test-utils": "^2.4.6",
 		"class-variance-authority": "^0.7.0",
 		"clsx": "^2.1.1",
-		"happy-dom": "^14.12.3",
+		"happy-dom": "^15.8.3",
 		"mitt": "^3.0.1",
 		"nuxt": "^3.13.1",
 		"pinia": "^2.2.2",
